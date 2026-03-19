@@ -1,0 +1,14 @@
+{
+  "interval_seconds": 60,
+  "degraded_latency_ms": 1500,
+  "alerts": {
+    "discord_webhook_url": "REPLACE_ME"
+  },
+  "services": [
+    {
+      "name": "Example Health Check",
+      "url": "https://example.com/health",
+      "timeout_seconds": 5
+    }
+  ]
+}

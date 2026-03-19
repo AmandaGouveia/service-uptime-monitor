@@ -1,0 +1,17 @@
+config.json
+.env
+
+*.db
+*.sqlite
+*.sqlite3
+
+*.log
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+.vscode/
